@@ -1,0 +1,8 @@
+This is a " GitHub Desktop Submission Assignment "
+
+Complete these actions:
+
+1. Open up a text file and write one line of text. Save this file as “VCCourse_Challenge_1.txt.”
+2. Utilize the GitHub Desktop Application to upload and commit this file to your “Tech-Academy-Projects” repository on GitHub.
+	HELPFUL HINT: Review this video for a reminder of how to use the GitHub Desktop Application: 
+3. Submit the link to your GitHub repository (with the VCCourse_Challenge_1.txt file in it) below:
